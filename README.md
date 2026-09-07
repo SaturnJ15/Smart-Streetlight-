@@ -1,3 +1,3 @@
 # Smart-Streetlight-
 
-project details 
+project details updated 
